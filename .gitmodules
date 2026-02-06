@@ -1,0 +1,12 @@
+[submodule "kisan-saathi-mobile"]
+	path = kisan-saathi-mobile
+	url = https://github.com/Team-06-Kisaan-Saathi/kisan-saathi-mobile.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Team-06-Kisaan-Saathi/backend.git
+[submodule "Main-Repository"]
+	path = Main-Repository
+	url = https://github.com/Team-06-Kisaan-Saathi/Main-Repository.git
+[submodule ".github"]
+	path = .github
+	url = https://github.com/Team-06-Kisaan-Saathi/.github.git
